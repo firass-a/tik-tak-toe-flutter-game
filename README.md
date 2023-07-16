@@ -1,6 +1,6 @@
 # tik_tak_toe
 
-A new Flutter project.
+flutter project
 
 ## Getting Started
 
